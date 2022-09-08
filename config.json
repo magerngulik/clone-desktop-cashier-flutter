@@ -1,0 +1,13 @@
+{
+    "state_management": "riverpod", 
+    "modules": [
+        "client/mainnavigatorcashier",
+        "client/home",
+        "client/menu",
+        "client/history",
+        "client/wallet",
+        "client/promos",
+        "client/setting",
+        "client/checkout"
+    ]
+}
