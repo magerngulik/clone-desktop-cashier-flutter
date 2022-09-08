@@ -28,9 +28,7 @@ M.Zulkarnaen|Zulkarnaen70@gmail.com|[Instagram](https://www.instagram.com/zulkar
 
 
 ## Screenshots
-**Super Admin**
 ![alt text](https://ibb.co/VgLFptg)
-
-
+![alt text](https://github.com/magerngulik/fugi_movie_app_team1/raw/master/resources/1.png)
 ![Logo](https://ibb.co/VgLFptg)
 
