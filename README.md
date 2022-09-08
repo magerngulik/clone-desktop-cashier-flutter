@@ -28,4 +28,5 @@ M.Zulkarnaen|Zulkarnaen70@gmail.com|[Instagram](https://www.instagram.com/zulkar
 
 
 ## Screenshots
+![alt text](https://github.com/magerngulik/clone-desktop-cashier-flutter/blob/main/assets/sc/sc2.png)
 ![alt text](https://github.com/magerngulik/clone-desktop-cashier-flutter/blob/main/assets/sc/sc1.jpg)
